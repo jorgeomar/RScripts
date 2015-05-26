@@ -8,7 +8,7 @@ output: html_document
 
 
 ```{r, echo=FALSE}
-3+3
+3+3+5
 ```
 
 You can also embed plots, for example:
